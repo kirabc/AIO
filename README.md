@@ -1,6 +1,6 @@
 # AIO
-<a href="https://www.elobuddy.net/topic/44536-73-ubaddons-warwick-added">Here is my AIO</a><br>
-
+<a href="https://www.elobuddy.net/topic/44536-73-ubaddons-warwick-added">Uzumaki-Boruto AIO</a><br>
+<a href="https://github.com/drunkenninja/AIO">Fix By drunkenninja</a><br>
 ## Avaiable Champ:
 * Ahri
 * Akali
